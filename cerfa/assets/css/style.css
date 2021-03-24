@@ -1,0 +1,46 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	color: #bfbfbf;
+	background-color: #0a0c2a;
+	font-family: 'Helvetica', 'Arial', 'Sans-serif';
+}
+
+hr {
+	background-color:white;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+footer {
+	background-color: black;
+}
+
+.container {
+	min-height: 100%;
+	width: 80%;
+	margin: auto;
+	text-align: justify;
+	padding: 50px 20px;
+}
+
+.toolButtons {
+	text-align: right;
+}
+
+.addForm {
+	display: table-caption;
+}
+
+.updateForm {
+	display: table-caption;
+}
+
+.navbarHome {
+	background-color: #000;
+}
